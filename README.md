@@ -286,11 +286,6 @@ when no process is running in the terminal.
 If `CTRL + D` proves to be ineffective. You can end almost any process and 
 clear any entered text with `CTRL + C` instead.
 
-### Code Along: Interactive v.s. Non-Interactive Mode
-
-Let's use the `python -m SimpleHTTPServer` command to run a web server in the current directory.
-
-Now try to type and run any command we have used before, such as `pwd` and see what happens.
 
 ### Additional Resources
 
